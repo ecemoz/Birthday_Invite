@@ -8,6 +8,9 @@ This project is a **simple HTML-based birthday invitation page**. It showcases h
 
 * HTML5
 
+* ![image](https://github.com/user-attachments/assets/d142ded4-f940-4aef-9518-95e3d83acf39)
+
+
 ## 📂 File Structure
 
 ```
